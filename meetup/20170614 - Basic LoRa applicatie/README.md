@@ -1,5 +1,5 @@
 # Bouw een basis LoRa node (deel 1 van 3)
-https://www.meetup.com/The-Things-Network-Enschede/events/239846530/
+https://www.meetup.com/The-Things-Network-Enschede/events/239850678/
 
 *Locatie:* Trimm
 
@@ -14,7 +14,5 @@ Stappenplan:
 * Account aanmaken op http://mydevices.com. Simpele visualisaties van data van de node.
 
 
-
-* Presentatie van de meetup: 
-[23052017 - Presentatie Bouwavond.pdf](https://github.com/TTNEnschede/documentation/blob/master/meetup/20170523%20-%20Basic%20LoRa%20node/23052017%20-%20Presentatie%20Bouwavond.pdf)
-* Software voor het programeren van de node is hier te vinden: https://github.com/corbo/LoRaWAN_TTN_Enschede
+# Resources
+* Presentatie van de meetup: TODO
