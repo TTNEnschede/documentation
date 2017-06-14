@@ -1,4 +1,4 @@
-# Bouw een basis LoRa node (deel 1 van 3)
+# Bouw een basis LoRa node (deel 2 van 3)
 https://www.meetup.com/The-Things-Network-Enschede/events/239850678/
 
 *Locatie:* Trimm
