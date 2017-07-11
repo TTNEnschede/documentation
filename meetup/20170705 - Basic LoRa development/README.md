@@ -13,4 +13,4 @@ Naast de Cayenne integration gaan we in op de MQTT en andere integrations van Th
 * Presentatie van de meetup: [20170705 - LoRa ontwikkeling.pdf](https://github.com/TTNEnschede/documentation/blob/master/meetup/20170614%20-%20Basic%20LoRa%20applicatie/20170614%20-%20LoRa%20applicatie.pdf)
 
 ## Impressie van de meetup
-![alt text](https://github.com/TTNEnschede/documentation/blob/master/meetup/20170614%20-%20Basic%20LoRa%20applicatie/20170714-Applicatie_bouwavond.jpg "Zakelijk platform")
+![alt text](https://github.com/TTNEnschede/documentation/blob/master/meetup/20170705%20-%20Basic%20LoRa%20development/20170705-plaftorm-avond.jpeg "Zakelijk platform")
