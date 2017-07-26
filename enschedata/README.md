@@ -42,7 +42,7 @@ function Decoder(bytes, port) {
 ```
 Controleer in de TTN dashboard, na het toevoegen van de payload function, of de data correct wordt vertaald.
 
-### Integration to platform
+### Integratie met platform
 
 Configureer een HTTP integration op de TTN dashboard om de data te pushen naar het enschedata platform. De volgende parameters moeten worden ingevuld:
 
