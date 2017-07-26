@@ -57,3 +57,17 @@ Configureer een HTTP integration op de TTN dashboard om de data te pushen naar h
 
 ### Visualiseer
 Zie data op het platform [http://enschedata.nl](http://enschedata.nl)
+
+### API's voor het uitlezen van de data
+(work in progress)
+
+De volgende api endpoints kunnen worden gebruikt (dit zijn open api's waar geen apikey voor nodig is):
+* [GET] /api/devices
+* [GET] /api/measurements[?limit=10&start=2017-07-01&end=2017-07-21&device_id=001&application_id=123]
+Optional parameters:
+  * limit: het aantal te tonen resultaten (default is 10).
+  * start: de startdatum waarop moet worden gefiltered.
+  * end: de einddatum waarop moet worden gefiltered.
+  * application_id: filter op application (dit is de TTN application id uit je dashboard).
+  * device_id: filter op één device (node) (dit is de TTN device id uit je dashboard). Om deze parameter te gebruiken moet de application_id ook worden meegegeven.
+
