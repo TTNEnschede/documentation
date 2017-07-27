@@ -7,7 +7,12 @@ Enschedata is een data platform waar data van sensoren via TTN gepusht kunnen wo
 ### Bouw een LoRa node  ;)
 Zie bijvoorbeeld: [https://github.com/TTNEnschede/SensorNode](https://github.com/TTNEnschede/SensorNode)
 
-### Payload function.
+## Stel de locatie van je node in
+In de TTN dashboard kun je de locatie van je node instellen. Kies de applicatie en vervolgens de node (device). Klik rechtsboven op settings en dan kom je een pagina waarin je de locatie van de device kunt invoeren.
+
+*Note: Op dit moment worden alleen stationairy nodes ondersteund.*
+
+### Payload function
 Wanneer de data van de node succesvol door de TTN backend wordt ontvangen moet het worden vertaald naar een formaat dat door het enschedata platform wordt begrepen. Het platform gaat uit van de JSON formaat van het payload_fields element in TTN bericht. Om de payload_fields in het juiste formaat te krijgen kan gebruik worden gemaakt van een payload function. Hieronder wordt een voorbeeld gegeven hoe zo'n payload function eruit ziet.
 
 Het platform ondersteund op dit moment de volgende elementen in de payload fields:
