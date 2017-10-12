@@ -1,5 +1,6 @@
 # Nazomer kickoff
 https://www.meetup.com/The-Things-Network-Enschede/events/243371699/
+
 *Locatie:* Innovadis
 
 
@@ -16,8 +17,8 @@ In deze meetup worden de projecten die tijdens de zomermaanden zijn uitgevoerd b
 
 
 ## Resources
-* Presentatie van de meetup: [20171011 - Nazomer kickoff.pdf](https://github.com/TTNEnschede/documentation/blob/master/meetup/20170705%20-%20Basic%20LoRa%20development/20170705%20-%20LoRa%20ontwikkeling.pdf)
-* Presentatie van de TTN Envorinmental node (Lex Bolkesteijn): [20171011 - TTN ENV presentatie.pdf](https://github.com/TTNEnschede/documentation/blob/master/meetup/20170705%20-%20Basic%20LoRa%20development/20170705%20-%20LoRa%20ontwikkeling.pdf)
+* Presentatie van de meetup: [20171011 - Nazomer kickoff.pdf](https://github.com/TTNEnschede/documentation/blob/master/meetup/20171011%20-%20Nazomer%20meetup/20171011%20-%20Nazomer%20kickoff.pdf)
+* Presentatie van de TTN Envorinmental node (Lex Bolkesteijn): [20171011 - TTN ENV presentatie.pdf](https://github.com/TTNEnschede/documentation/blob/master/meetup/20171011%20-%20Nazomer%20meetup/20171011%20-%20TTN%20ENV%20presentatie.pdf)
 
 ## Impressie van de meetup
-![alt text](https://github.com/TTNEnschede/documentation/blob/master/meetup/20170705%20-%20Basic%20LoRa%20development/20170705-plaftorm-avond.jpeg "Nazomer kickoff")
+![alt text](https://github.com/TTNEnschede/documentation/blob/master/meetup/20171011%20-%20Nazomer%20meetup/20171011%20-%20Nazomer%20kickoff.jpg "Nazomer kickoff")
