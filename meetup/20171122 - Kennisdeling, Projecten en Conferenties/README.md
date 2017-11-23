@@ -35,4 +35,4 @@ Tijdens de meetup zijn de volgende conferenties besproken:
 * Dowse: https://dowse.eu/
 
 ## Impressie van de meetup
-![Impression](https://github.com/TTNEnschede/documentation/blob/master/meetup/20171122%20-%20Kennisdeling%2C%20Projecten%20en%20Conferenties/20171122%20-%20Impression.jpg")
+![alt text](https://github.com/TTNEnschede/documentation/blob/master/meetup/20171122%20-%20Kennisdeling%2C%20Projecten%20en%20Conferenties/20171122%20-%20Impression.jpg "Top overleg")
