@@ -30,9 +30,9 @@ Tijdens de meetup zijn de volgende conferenties besproken:
 * The Things Conference: https://www.thethingsnetwork.org/conference/
 
 ## Resources
-* Presentatie van de meetup: [20171122 - Kennisdeling, Projecten en Conferenties.pdf](https://github.com/TTNEnschede/documentation/blob/master/meetup/20171011%20-%20Nazomer%20meetup/20171011%20-%20Nazomer%20kickoff.pdf)
+* Presentatie van de meetup: [20171122 - Kennisdeling, Projecten en Conferenties.pdf](https://github.com/TTNEnschede/documentation/blob/master/meetup/20171122%20-%20Kennisdeling%2C%20Projecten%20en%20Conferenties/20171122%20-%20Kennisdeling%2C%20Projecten%20en%20Conferenties.pdf)
 * Webcast van Johan Stokking (LoRaWAN 1.1): https://www.youtube.com/watch?v=ewsXKc3bk1U&index=1&list=LLrLLvKQpquIkISc6ax0ibpw
 * Dowse: https://dowse.eu/
 
 ## Impressie van de meetup
-![alt text](https://github.com/TTNEnschede/documentation/blob/master/meetup/20171011%20-%20Nazomer%20meetup/20171011%20-%20Nazomer%20kickoff.jpg "Nazomer kickoff")
+![Impression](https://github.com/TTNEnschede/documentation/blob/master/meetup/20171122%20-%20Kennisdeling%2C%20Projecten%20en%20Conferenties/20171122%20-%20Impression.jpg")
