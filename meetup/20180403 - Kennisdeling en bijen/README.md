@@ -6,7 +6,7 @@ https://www.meetup.com/The-Things-Network-Enschede/events/248921079/
 In deze bijeenkomst bespraken we de lopende initiatieven en is een community project in de spotlight gezet. Een van onze community members presenteert zijn LoRa project over het monitoren van bijen.
 
 ## LoRa Bee Monitoring
-Neco Gedik is imker (in zijn vrije tijd) en ontwikkelde zijn eigen sensor (verbonden over LoRa) om zijn kasten in de gaten te houden. Hier vind je zijn [slides](https://github.com/TTNEnschede/documentation/blob/master/meetup/20180403%20-%20Kennisdeling%20en%bijen/20180403%20-%20LoRa%20Bee%20Monitoring.pdf).
+Neco Gedik is imker (in zijn vrije tijd) en ontwikkelde zijn eigen sensor (verbonden over LoRa) om zijn kasten in de gaten te houden. Hier vind je zijn [slides](https://github.com/TTNEnschede/documentation/blob/master/meetup/20180403%20-%20Kennisdeling%20en%20bijen/20180403%20-%20LoRa%20Bee%20Monitoring.pdf).
 
 ## Terugblik The Things Conference
 We blikken terug op een succesvolle The Things Conference. De highlights waren:
@@ -19,7 +19,7 @@ De buzz rond de conferentie ging vooral over:
 * Security (en firmware update) steeds belangrijker!
 * Software defined radio is hip!
 
-Kijk de [slides](https://github.com/TTNEnschede/documentation/blob/master/meetup/20180403%20-%20Kennisdeling%20en%bijen/20180403%20-%20Kennisdeling%20en%bijen.pdf) terug voor details en links naar presentaties.
+Kijk de [slides](https://github.com/TTNEnschede/documentation/blob/master/meetup/20180403%20-%20Kennisdeling%20en%20bijen/20180403%20-%20Kennisdeling%20en%20bijen.pdf) terug voor details en links naar presentaties.
 
 ## Lopende projecten
 In de meetup hebben we een korte status update gegeven over een aantal projecten.
@@ -33,9 +33,9 @@ wat hoopvol uitziet. Doelstelling is een betaalbare LoRa connected sensor te ont
 
 
 ## Resources
-* Presentatie van de meetup: [20180403 - Kennisdeling en bijen.pdf](https://github.com/TTNEnschede/documentation/blob/master/meetup/20180403%20-%20Kennisdeling%20en%bijen/20180403%20-%20Kennisdeling%20en%bijen.pdf)
-* Presentatie LoRa Bee monitoring: [20180403 - LoRa Bee Monitoring.pdf](https://github.com/TTNEnschede/documentation/blob/master/meetup/20180403%20-%20Kennisdeling%20en%bijen/20180403%20-%20LoRa%20Bee%20Monitoring.pdf)
-* Presentatie Ultrasoon grondwaterstand meten: [20180304 - Ultrasoon grondwaterstand meten.pdf](https://github.com/TTNEnschede/documentation/blob/master/meetup/20180403%20-%20Kennisdeling%20en%bijen/20180403%20-%20Ultrasoon%20grondwaterstand%20meten.pdf)
+* Presentatie van de meetup: [20180403 - Kennisdeling en bijen.pdf](https://github.com/TTNEnschede/documentation/blob/master/meetup/20180403%20-%20Kennisdeling%20en%20bijen/20180403%20-%20Kennisdeling%20en%20bijen.pdf)
+* Presentatie LoRa Bee monitoring: [20180403 - LoRa Bee Monitoring.pdf](https://github.com/TTNEnschede/documentation/blob/master/meetup/20180403%20-%20Kennisdeling%20en%20bijen/20180403%20-%20LoRa%20Bee%20Monitoring.pdf)
+* Presentatie Ultrasoon grondwaterstand meten: [20180304 - Ultrasoon grondwaterstand meten.pdf](https://github.com/TTNEnschede/documentation/blob/master/meetup/20180403%20-%20Kennisdeling%20en%20bijen/20180403%20-%20Ultrasoon%20grondwaterstand%20meten.pdf)
 
 ## Impressie van de meetup
-![alt text](https://github.com/TTNEnschede/documentation/blob/master/meetup/20180403%20-%20Kennisdeling%20en%bijen/20180403%20-%20Impression.jpg "Presentatie Jan Veltman")
+![alt text](https://github.com/TTNEnschede/documentation/blob/master/meetup/20180403%20-%20Kennisdeling%20en%20bijen/20180403%20-%20Impression.jpg "Presentatie Jan Veltman")
