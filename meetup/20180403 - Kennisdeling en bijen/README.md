@@ -35,7 +35,7 @@ wat hoopvol uitziet. Doelstelling is een betaalbare LoRa connected sensor te ont
 ## Resources
 * Presentatie van de meetup: [20180403 - Kennisdeling en bijen.pdf](https://github.com/TTNEnschede/documentation/blob/master/meetup/20180403%20-%20Kennisdeling%20en%20bijen/20180403%20-%20Kennisdeling%20en%20bijen.pdf)
 * Presentatie LoRa Bee monitoring: [20180403 - LoRa Bee Monitoring.pdf](https://github.com/TTNEnschede/documentation/blob/master/meetup/20180403%20-%20Kennisdeling%20en%20bijen/20180403%20-%20LoRa%20Bee%20Monitoring.pdf)
-* Presentatie Ultrasoon grondwaterstand meten: [20180304 - Ultrasoon grondwaterstand meten.pdf](https://github.com/TTNEnschede/documentation/blob/master/meetup/20180403%20-%20Kennisdeling%20en%20bijen/20180403%20-%20Ultrasoon%20grondwaterstand%20meten.pdf)
+* Presentatie Ultrasoon grondwaterstand meten: [20180403 - Ultrasoon grondwaterstand meten.pdf](https://github.com/TTNEnschede/documentation/blob/master/meetup/20180403%20-%20Kennisdeling%20en%20bijen/20180403%20-%20Ultrasoon%20grondwaterstand%20meten.pdf)
 
 ## Impressie van de meetup
 ![alt text](https://github.com/TTNEnschede/documentation/blob/master/meetup/20180403%20-%20Kennisdeling%20en%20bijen/20180403%20-%20Impression.jpg "Presentatie Jan Veltman")
