@@ -10,5 +10,5 @@ Instructie voor het maken van het weerstation vind je hier: [workshop instructie
 
 
 ## Resources
-* Presentatie van de meetup: [20180418 - Bouw je eigen weerstation workshop!.pdf](https://github.com/TTNEnschede/documentation/blob/master/meetup/20180418%20-%20Bouw%20je%20eigen%20weerstation/20180418%20-%20Bouw%20je%20eigen%20weerstation workshop!.pdf)
-* Workshop instructies: [workshop instructies](https://github.com/TTNEnschede/documentation/blob/master/meetup/20180418%20-%20Bouw%20je%20eigen%20weerstation/20180418%20-%20Workshop%20instructies%20-%20Bouw%20je%20eigen%20weerstation workshop!.pdf)
+* Presentatie van de meetup: [20180418 - Bouw je eigen weerstation workshop!.pdf](https://github.com/TTNEnschede/documentation/blob/master/meetup/20180418%20-%20Bouw%20je%20eigen%20weerstation/20180418%20-%20Bouw%20je%20eigen%20weerstation%20workshop!.pdf)
+* Workshop instructies: [workshop instructies](https://github.com/TTNEnschede/documentation/blob/master/meetup/20180418%20-%20Bouw%20je%20eigen%20weerstation/20180418%20-%20Workshop%20instructies%20-%20Bouw%20je%20eigen%20weerstation%20workshop!.pdf)
