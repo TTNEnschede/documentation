@@ -8,7 +8,12 @@ Doel van de workshop is het bouwen van een weerstation. Het weerstation meet per
 ## Workshop instructies
 Instructie voor het maken van het weerstation vind je hier: [workshop instructies](https://github.com/TTNEnschede/documentation/blob/master/meetup/20180418%20-%20Bouw%20je%20eigen%20weerstation/20180418%20-%20Workshop%20instructies%20-%20Bouw%20je%20eigen%20weerstation%20workshop!.pdf).
 
+English version of the workshop instructions can be found here: [workshop instructions](https://github.com/TTNEnschede/documentation/blob/master/meetup/20180418%20-%20Bouw%20je%20eigen%20weerstation/20180418%20-%20Workshop%20instructions%20-%20Build%20your%20own%20weather%20station%20workshop!.pdf)
 
 ## Resources
 * Presentatie van de meetup: [20180418 - Bouw je eigen weerstation workshop!.pdf](https://github.com/TTNEnschede/documentation/blob/master/meetup/20180418%20-%20Bouw%20je%20eigen%20weerstation/20180418%20-%20Bouw%20je%20eigen%20weerstation%20workshop!.pdf)
 * Workshop instructies: [workshop instructies](https://github.com/TTNEnschede/documentation/blob/master/meetup/20180418%20-%20Bouw%20je%20eigen%20weerstation/20180418%20-%20Workshop%20instructies%20-%20Bouw%20je%20eigen%20weerstation%20workshop!.pdf)
+* Workshop instructions (English): [workshop instructions](https://github.com/TTNEnschede/documentation/blob/master/meetup/20180418%20-%20Bouw%20je%20eigen%20weerstation/20180418%20-%20Workshop%20instructions%20-%20Build%20your%20own%20weather%20station%20workshop!.pdf)
+
+## Impressie van de meetup
+![alt text](https://github.com/TTNEnschede/documentation/blob/master/meetup/20180418%20-%20Bouw%20je%20eigen%20weerstation/20180418%20-%20Impression.jpg "Harde werkers")
